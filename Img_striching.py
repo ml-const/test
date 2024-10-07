@@ -1,4 +1,5 @@
 import cv2
+#start script
 image_paths=['./frames/frame170.png','./frames/frame212.png','./frames/frame250.png']
 # initialized a list of images
 imgs = []
